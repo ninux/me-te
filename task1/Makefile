@@ -1,4 +1,4 @@
-DOCUMENT = report
+DOCUMENT = me_te_task_1_mazlagic_ervin
 OBJ_DIR = ./obj
 
 .PHONY: all doc latex bib gloss clean
